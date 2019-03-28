@@ -3,3 +3,4 @@
 
 java8test为对java8新特性的测试学习demo
 
+JavaLearn是对java编程思想的学习demo
