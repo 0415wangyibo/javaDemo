@@ -1,3 +1,2 @@
 # javaDemo
-java-learning-demo
-java 学习demo
+记录java基础知识的学习
